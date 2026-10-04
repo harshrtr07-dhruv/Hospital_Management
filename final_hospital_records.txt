@@ -1,0 +1,4 @@
+1001,John Doe,O+,Fever
+1002,Jane Roe,A-,Flu
+1003,Bob Builder,B+,Fracture
+1004,Alice Wonderland,AB+,Checkup
